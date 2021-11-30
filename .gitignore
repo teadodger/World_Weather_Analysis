@@ -1,7 +1,7 @@
 # Adding config.py file
 config.py
 .DS_Store
-
+Vacation_Search/.DS_Store
 # Adding additional files
 API_practice.ipynb
 random_numbers.ipynb
